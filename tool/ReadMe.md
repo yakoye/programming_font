@@ -86,3 +86,12 @@ Metrics - Width宽度
 
 ![image-20240328110449891](./img/FontCreatorHelp.assets/image-20240328110449891.png)
 
+
+
+
+
+### FontCreator Support
+
+[FontCreator FAQ](https://www.high-logic.com/font-editor/fontcreator/faq) – view the most frequently asked questions (and answers) about FontCreator
+[FontCreator Tutorials](https://www.high-logic.com/font-editor/fontcreator/tutorials) – a list of handy tutorials to help you design and edit fonts with FontCreator
+[FontCreator User Manual](https://www.high-logic.com/fontcreator/manual15/) – the online version of the FontCreator user manual

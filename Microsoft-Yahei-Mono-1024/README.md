@@ -34,3 +34,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 效果：
 
 ![image-20240328181329144](./img/README.assets/image-20240328181329144.png)
+
+### 安装
+
+单独安装 [MSYHMONO-1024.otf](./MSYHMONO-1024.otf) 即可
+
