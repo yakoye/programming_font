@@ -1,10 +1,19 @@
-## 修改说明
+## SimSun_DejaVu修改说明
 
-该字体非等宽字体，只是修改了部分不容易辨认的单字。
+SimSun本来可能是等宽字体，我基于它修改了部分容易混淆的单字：
+```
+l 0 " ' ~ < > / \ | - _ , . () ^
+```
+
+
 
 The font is not the same width font, but modified some words that are not easy to read.
 
 
+
+效果：
+
+![image-20240328181412087](./img/ReadMe.assets/image-20240328181412087.png)
 
 simsun_DejaVu.fcp    Font Creator工程文件
 simsun_DejaVu.otf    输出字体文件
