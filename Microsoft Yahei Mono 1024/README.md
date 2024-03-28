@@ -1,4 +1,4 @@
-# Microsoft-Yahei-Mono-1024
+# Microsoft Yahei Mono 1024
 Microsoft Yahei Mono 字体
 
 个人喜欢的字体，基于[chenyium的版本](https://github.com/chenyium/Microsoft-Yahei-Mono)的修改。
