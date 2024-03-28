@@ -1,9 +1,11 @@
 # 编程字体
-自己修改和收集的一些编程字体。
+自己收集和修改一些编程字体。
 
 
 
 ### [Microsoft-Yahei-Mono-1024](./Microsoft-Yahei-Mono-1024)
+
+适合不支持独立设置中英文的软件，比如在notepad++中使用
 
 效果：
 
@@ -11,7 +13,11 @@
 
 
 
+
+
 ### [simsun_DejaVu](./simsun_DejaVu)
+
+适合不支持独立设置中英文的软件，比如notepad++中使用
 
 效果：
 
