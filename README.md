@@ -20,7 +20,7 @@ Releases中汇总了Regular类型的字体。
 
 ## 安装
 
-方法一： Releases下找到*.otf或*.ttf。
+方法一： **Releases**下找到*.otf或*.ttf。
 
 方法二： 单独文件夹下找到*.otf或*.ttf。
 
@@ -31,14 +31,19 @@ Releases中汇总了Regular类型的字体。
 
 ## Programming Fonts
 Collecting and Modifying Fonts for Coding.
-The Releases section aggregates fonts of the Regular type.
+
+The **Releases** section aggregates fonts of the Regular type.
 
 ## Recommend
-[Microsoft-Yahei-Mono-1024](./Microsoft-Yahei-Mono-1024) and [simsun_DejaVu](./simsun_DejaVu)
+[Microsoft-Yahei-Mono-1024](./Microsoft-Yahei-Mono-1024) and [simsun_DejaVu](./simsun_DejaVu).
+
 Suitable Scenario: Software where individual settings for Chinese and English characters are unavailable. 
+
 For instance, usage in Notepad++.
 
 ## Installation
 Method 1: Locate *.otf or *.ttf files under the Releases section.
+
 Method 2: Find *.otf or *.ttf files within a dedicated folder.
+
 After downloading, proceed to install.
