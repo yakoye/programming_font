@@ -19,9 +19,13 @@ Releases中汇总了Regular类型的字体。
 ![image-20240328181412087](./img/README.assets/image-20240328181412087.png)
 
 ## 安装
+
 方法一： Releases下找到*.otf或*.ttf。
+
 方法二： 单独文件夹下找到*.otf或*.ttf。
+
 下载后，安装即可。
+
 
 ---
 
