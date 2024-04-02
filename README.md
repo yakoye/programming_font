@@ -27,6 +27,18 @@ Releases中汇总了Regular类型的字体。
 下载后，安装即可。
 
 
+
+## 其他
+
+[GitHub - cicin411/cc-font](https://github.com/cicin411/cc-font/tree/main)
+
+[GitHub - ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts)
+
+
+
+
+
+
 ---
 
 ## Programming Fonts
@@ -47,3 +59,6 @@ Method 1: Locate *.otf or *.ttf files under the Releases section.
 Method 2: Find *.otf or *.ttf files within a dedicated folder.
 
 After downloading, proceed to install.
+
+
+
